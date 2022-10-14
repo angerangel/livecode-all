@@ -8,7 +8,7 @@ The LiveCode Community open source platform provides a way to build applications
 
 The visual workflow allows the user to develop apps "live", using a powerful and uniquely-accessible language syntax.
 
-[LiveCode Ltd.](http://livecode.com/), based in Edinburgh, UK, coordinates development of LiveCode and has run the open source project since LiveCode Community was first released in April 2013.
+[LiveCode Ltd.](http://livecode.com/), based in Edinburgh, UK, coordinates development of LiveCode and has begun the open source project in April 2013.
 
 
 ## Overview
