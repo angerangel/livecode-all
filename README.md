@@ -2,8 +2,6 @@
 
 ![LiveCode Community Logo](http://livecode.com/wp-content/uploads/2015/02/livecode-logo.png)
 
-Copyright © 2003-2019 LiveCode Ltd., Edinburgh, UK
-
 ## Introduction
 
 The LiveCode Community open source platform provides a way to build applications for mobile, desktop and server platforms.
@@ -12,7 +10,6 @@ The visual workflow allows the user to develop apps "live", using a powerful and
 
 [LiveCode Ltd.](http://livecode.com/), based in Edinburgh, UK, coordinates development of LiveCode and has run the open source project since LiveCode Community was first released in April 2013.
 
-You can download pre-compiled versions of the LiveCode Community development environment from the [LiveCode download centre](http://downloads.livecode.com/livecode/).
 
 ## Overview
 
@@ -64,11 +61,6 @@ LiveCode uses the [gyp (Generate Your Projects)](https://chromium.googlesource.c
 
 ### Quick start
 
-**Note**: You can only compile LiveCode from a clone of the
-[LiveCode git repository](https://github.com/livecode/livecode) on
-GitHub.  See also the GitHub documentation on
-[cloning a repository](https://help.github.com/articles/cloning-a-repository/).
-
 On Linux or Mac, you can quickly build LiveCode by installing basic development tools, and then running `make all`.
 
 ### Detailed instructions
@@ -91,18 +83,8 @@ There are several ways to get help with installing and using LiveCode:
 
 * Ask a question on the ["use-livecode" mailing list](http://lists.runrev.com/mailman/listinfo/use-livecode), or search the the mailing list archives for previous answers to similar questions
 
-* Visit the [LiveCode open source forums](http://forums.livecode.com/viewforum.php?f=65).  In particular, you may wish to post your question in the [Engine Contributors](http://forums.livecode.com/viewforum.php?f=66) forum.
 
-* If you have discovered a bug, have a feature request, or have written a patch to improve LiveCode, please create an ticket in the [LiveCode issue tracking system](http://quality.livecode.com/).
-
-## Contributing to LiveCode
-
-For information on modifying LiveCode and submitting contributions to the LiveCode Community project, please see the [CONTRIBUTING](CONTRIBUTING.md) file.
 
 ## License
 
-LiveCode Community is freely distributable under the GNU Public License (GPL), with some special exceptions.  For more information, please see the [LICENSE](LICENSE) file in this repository.
-
-The LiveCode Community engine, libraries, and associated files are, unless otherwise noted:
-
-Copyright © 2003-2019 LiveCode Ltd.
+LiveCode Community is freely distributable under the GNU Public License (GPL).
