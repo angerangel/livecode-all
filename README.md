@@ -78,3 +78,4 @@ Please see the following table, which shows which target platforms are supported
 ## License
 
 LiveCode Community is freely distributable under the GNU Public License (GPL).
+
