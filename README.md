@@ -75,16 +75,6 @@ Please see the following table, which shows which target platforms are supported
 | [android](docs/development/build-android.md)               | mac, linux        |
 | [emscripten (html5)](docs/development/build-emscripten.md) | linux             |
 
-## Getting help
-
-There are several ways to get help with installing and using LiveCode:
-
-* If you have a LiveCode Commercial subscription, you may [contact LiveCode Support](mailto:support@livecode.com).
-
-* Ask a question on the ["use-livecode" mailing list](http://lists.runrev.com/mailman/listinfo/use-livecode), or search the the mailing list archives for previous answers to similar questions
-
-
-
 ## License
 
 LiveCode Community is freely distributable under the GNU Public License (GPL).
